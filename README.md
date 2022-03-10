@@ -1,1 +1,1 @@
-Build and deploy a linux machine in AzureAD while expanding the parametrized Terraform configuration and consuming local values
+Build and deploy a linux machine in AzureAD with terraform automation
